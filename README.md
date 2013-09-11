@@ -7,9 +7,10 @@ VB Script - Create a report of Users/Computers LastLogon date in a domain
 
 1. Clone this script from github or copy the files manually to your prefered directory.
 
-2. Optional: Edit the script and input your OU:
+2. Optional: Edit the script and input your OU (end with a comma):
 
- - OUFilter = "" ' eg: OU=Employees, end it with a comma if you have anything here.
+ - OUFilter = "OU=Employees,"
+
 
 
 
