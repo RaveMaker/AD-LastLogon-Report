@@ -9,5 +9,7 @@ VB Script - Create a report of Users/Computers LastLogon date in a domain
 
 
 Author: Josh Muehe
+
 Updated by: [RaveMaker][RaveMaker].
+
 [RaveMaker]: http://ravemaker.net
